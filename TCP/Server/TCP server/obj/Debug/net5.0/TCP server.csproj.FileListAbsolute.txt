@@ -1,0 +1,16 @@
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\TCP server.exe
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\TCP server.deps.json
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\TCP server.runtimeconfig.json
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\TCP server.runtimeconfig.dev.json
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\TCP server.dll
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\TCP server.pdb
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.csproj.AssemblyReference.cache
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.AssemblyInfoInputs.cache
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.AssemblyInfo.cs
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.csproj.CoreCompileInputs.cache
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.dll
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.pdb
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\TCP server.genruntimeconfig.cache
+D:\WORK\c#\TCP\Server\TCP server\obj\Debug\net5.0\ref\TCP server.dll
+D:\WORK\c#\TCP\Server\TCP server\bin\Debug\net5.0\ref\TCP server.dll

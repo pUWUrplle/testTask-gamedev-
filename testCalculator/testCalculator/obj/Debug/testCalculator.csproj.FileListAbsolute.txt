@@ -1,0 +1,10 @@
+D:\WORK\c#\testCalculator\testCalculator\bin\Debug\testCalculator.exe.config
+D:\WORK\c#\testCalculator\testCalculator\bin\Debug\testCalculator.exe
+D:\WORK\c#\testCalculator\testCalculator\bin\Debug\testCalculator.pdb
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.csproj.AssemblyReference.cache
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.Form1.resources
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.Properties.Resources.resources
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.csproj.GenerateResource.cache
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.csproj.CoreCompileInputs.cache
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.exe
+D:\WORK\c#\testCalculator\testCalculator\obj\Debug\testCalculator.pdb

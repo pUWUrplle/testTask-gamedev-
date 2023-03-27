@@ -1,0 +1,16 @@
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.csproj.AssemblyReference.cache
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.AssemblyInfoInputs.cache
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.AssemblyInfo.cs
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.csproj.CoreCompileInputs.cache
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\TCP client.exe
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\TCP client.deps.json
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\TCP client.runtimeconfig.json
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\TCP client.runtimeconfig.dev.json
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\TCP client.dll
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\TCP client.pdb
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.dll
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.pdb
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\TCP client.genruntimeconfig.cache
+D:\WORK\c#\TCP\Client\TCP client\obj\Debug\net5.0\ref\TCP client.dll
+D:\WORK\c#\TCP\Client\TCP client\bin\Debug\net5.0\ref\TCP client.dll
